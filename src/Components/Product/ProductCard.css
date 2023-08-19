@@ -1,0 +1,19 @@
+.card_cta {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .card_price {
+    font-size: 1.4rem;
+    padding: 0rem 2rem;
+    margin: 0rem 0rem;
+    margin-left: -2rem;
+  }
+
+.card-type {
+  text-transform: uppercase;
+  font-weight: 600;
+  color: #9299A3;
+
+}

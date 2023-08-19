@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ee76222e.css",
+    "main.js": "/static/js/main.ebbee006.js",
+    "static/media/LED.png": "/static/media/LED.c073939021f666ea194a.png",
+    "static/media/Cake.png": "/static/media/Cake.aeb3da819895961e5bfe.png",
+    "static/media/Toy.png": "/static/media/Toy.a07d78b88b6e04713014.png",
+    "static/media/Plant.png": "/static/media/Plant.b48fa97996708df60b82.png",
+    "static/media/Watch.png": "/static/media/Watch.f79e25c7abf41a6cfe8b.png",
+    "static/media/Frame.png": "/static/media/Frame.053de2d6d6419269e021.png",
+    "static/media/Purs.png": "/static/media/Purs.fc18b8371c4114bfa976.png",
+    "static/media/CTA.svg": "/static/media/CTA.b7846e15f8d50864d8fb00bcd92617e3.svg",
+    "static/media/Necklace.png": "/static/media/Necklace.c708d982db184cce27e1.png",
+    "static/media/GiftBazar.png": "/static/media/GiftBazar.db57a8ca59d881a65d5d.png",
+    "static/media/gradient2.png": "/static/media/gradient2.21127373bc7c47132e09.png",
+    "index.html": "/index.html",
+    "main.ee76222e.css.map": "/static/css/main.ee76222e.css.map",
+    "main.ebbee006.js.map": "/static/js/main.ebbee006.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee76222e.css",
+    "static/js/main.ebbee006.js"
+  ]
+}

@@ -1,0 +1,171 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap");
+/* color: 161616(background) 474747(Text), 004AAD(Button) */
+/* font-family: 'Poppins', sans-serif;*/
+
+body::-webkit-scrollbar{
+  display: none;
+}
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  scroll-behavior: smooth;
+}
+
+body {
+  color: #eeeeee;
+  padding: 10px 250px;
+  background-image: url("../BackgroundIMG/gradient2.png");
+  background-size: cover;
+  /* background-color: #161616; */
+  font-family: 'Poppins', sans-serif;
+}
+
+.navbar {
+  padding: 16px 16px;
+  background-color: #161616;
+}
+
+.category {
+  align-items: center;
+  justify-content: center;
+}
+
+.dropdown {
+  float: right;
+  padding: 41px;
+}
+
+.category {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 48px 40px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.dropdown-menu {
+  float: left;
+}
+
+.main {
+  padding-top: 100px;
+}
+
+.main_cta {
+  padding-top: 32px;
+}
+
+.main_image {
+  float: right;
+  width: 650px;
+}
+
+.main_headline {
+  font-size: 64px;
+  font-weight: 700;
+}
+
+.main_p {
+  font-size: 20px;
+}
+
+
+.grid-target {
+  display: grid ;
+  grid-template-columns: auto auto auto auto;
+  align-items: center;
+  justify-content: center;
+  padding: 100px;
+  margin: 10%;
+}
+.grid-item {
+  color: #fff;
+  padding: 50px 150px;
+  font-size: 30px;
+  text-align: center;  
+}
+
+.target_title {
+  font-size: 20px;
+  color: #999999;
+}
+
+.grid-feature {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  align-items: center;
+  justify-content: center;
+  padding: 100px;
+  margin: 10%;
+}
+
+.card-1 {
+  background-image: url("https://images.unsplash.com/photo-1515871204537-49a5fe66a31f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1082&q=80");
+}
+
+.birthday {
+  padding-top: 150px;
+}
+
+.birthday_cta {
+  padding-top: 32px;
+}
+
+.birthday_image {
+  float: left;
+  width: 500px;
+}
+
+.birthday_headline {
+  font-size: 56px;
+  font-weight: 700;
+}
+
+.birthday_p {
+  font-size: 20px;
+}
+
+.delivery {
+  padding-top: 250px;
+}
+
+.delivery_cta {
+  padding-top: 32px;
+}
+
+.delivery_image {
+  float: right;
+  width: 500px;
+}
+
+.delivery_headline {
+  padding-top: 70px;
+  font-size: 56px;
+  font-weight: 700;
+}
+
+.delivery_p {
+  font-size: 20px;
+}
+
+.pb-lg-14 {
+  margin-top: -250px;
+}
+
+.card-1 {
+  background-image: url("https://cdn.dribbble.com/users/432860/screenshots/17366862/media/ad904164dbc0a94a9a6500f75f5afa8c.png?compress=1&resize=450x338&vertical=top");
+}
+
+.card-2 {
+  background-image: url("https://images.unsplash.com/photo-1517457373958-b7bdd4587205?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8ZXZlbnR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60");
+}
+
+.card-3 {
+  background-image: url("https://images.unsplash.com/photo-1514525253161-7a46d19cd819?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTF8fGV2ZW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60");
+}
+
+.main_headline {
+  color: #eeeeee;
+}
